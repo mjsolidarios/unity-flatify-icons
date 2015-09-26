@@ -1,6 +1,9 @@
 # unity-flatify-icons
 > Shell script to flatten Ubuntu Unity's launcher icons.
 
+## Screenshot
+![screenshot](assets/screenshot.png "screenshot")
+
 ## Instructions
 The following terminal commands will enable you to run the script. Please inspect the source code first if you don't trust me.
 ```bash
