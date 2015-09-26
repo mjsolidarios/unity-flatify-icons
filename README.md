@@ -3,6 +3,7 @@
 
 ## Screenshot
 ![screenshot](assets/screenshot.png "screenshot")
+> The icon theme used for this screenshot is [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle). 
 
 ## Instructions
 The following terminal commands will enable you to run the script. Please inspect the source code first if you don't trust me.
